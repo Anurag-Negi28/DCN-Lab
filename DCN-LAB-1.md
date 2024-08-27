@@ -1,11 +1,11 @@
-#Modes in packet tracer-
+# Modes in packet tracer-
 
 - User Mode
 - Privileged Mode
 - Global Configuration mode
 - Interface Mode
 
-#Commands in packet tracer
+# Commands in packet tracer
 
 config terminal  =We are in local configuration mode
 
@@ -31,7 +31,7 @@ do show run =to see the configuration in other modes
 
 banner motd $ Message $ =to print the message of the day
 
-#Set the IP address
+# Set the IP address
 
 interface vlan1 =we cannot assign Ip to a switch we assign it to vlan
 
