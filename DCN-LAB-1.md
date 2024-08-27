@@ -1,4 +1,4 @@
-# Modes in packet tracer-
+# Modes in packet tracer
 
 - User Mode
 - Privileged Mode
